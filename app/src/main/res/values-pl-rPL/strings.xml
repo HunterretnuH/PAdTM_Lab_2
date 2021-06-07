@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab_2</string>
+    <string name="moj_tekst">Witaj świecie!</string>
+    <string name="name">Name</string>
+    <string name="surname">Nazwisko</string>
+    <string name="phone">Telefon</string>
+    <string name="address">Adres</string>
+    <string name="button">Przysick</string>
+</resources>
